@@ -1,0 +1,15 @@
+C:\Users\Jack\Documents\todo-list\bin\Debug\net6.0\todo-list.exe
+C:\Users\Jack\Documents\todo-list\bin\Debug\net6.0\todo-list.deps.json
+C:\Users\Jack\Documents\todo-list\bin\Debug\net6.0\todo-list.runtimeconfig.json
+C:\Users\Jack\Documents\todo-list\bin\Debug\net6.0\todo-list.dll
+C:\Users\Jack\Documents\todo-list\bin\Debug\net6.0\ref\todo-list.dll
+C:\Users\Jack\Documents\todo-list\bin\Debug\net6.0\todo-list.pdb
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\todo-list.csproj.AssemblyReference.cache
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\todo-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\todo-list.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\todo-list.AssemblyInfo.cs
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\todo-list.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\todo-list.dll
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\ref\todo-list.dll
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\todo-list.pdb
+C:\Users\Jack\Documents\todo-list\obj\Debug\net6.0\todo-list.genruntimeconfig.cache
