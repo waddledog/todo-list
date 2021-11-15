@@ -9,11 +9,8 @@ while (running)
     // Clearing the console at the start of each loop give a UI type feel to the console.
     Console.Clear();
 
-    // Print out the header.
-    Console.WriteLine("--------");
-    Console.WriteLine("To do");
-    Console.WriteLine("--------");
-    Console.WriteLine();
+    // Print out the header. Check out the new file 'UI.cs' to see how this works.
+    UI.WriteHeader();
 
     // For every item in our task list, print out the item name.
     foreach (var item in tasklist)
@@ -21,15 +18,14 @@ while (running)
         Console.WriteLine(item.Name);
     }
 
-    // Print out the options.
+    // TODO: Refactor this code in the UI class.
     Console.WriteLine();
     Console.WriteLine("what do you want to do?");
     Console.WriteLine("\t1 - create task"); // *\t* = tab/ 4 spaces 
     Console.WriteLine();
 
-    // Read the options input from the user.
-    Console.Write("option: ");
-    var input = Console.ReadLine();
+    // Read the options input from the user. Check out the new file 'UI.cs' to see how this works.
+    var input = UI.ReadOptionInput();
 
     // Do different things depending on the option provided by the user.
     if (input == "1") // == is actually equals (an equality operator, result is always true or fasle)
@@ -51,7 +47,7 @@ while (running)
     // If the option that was input from the user was not valid, write an invalid input message.
     else
     {
-
+        // TODO: Refactor this code in to the UI class.
         Console.WriteLine("invalid input. Press any key to continue");
         Console.ReadKey();
     }
